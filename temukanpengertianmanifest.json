@@ -1,0 +1,38 @@
+{
+  "name": "Temukan Pengertian",
+  "short_name": "TPengertian",
+  "start_url": "https://www.temukanpengertian.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#C51162",
+  "description": "Tentang pengertian, apa itu, apa yang dimaksud, definisi, arti dari, apakah itu, adalah, yaitu, ialah.",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-OyOWF413Szo/XR8E2MDjwvI/AAAAAAAASXc/ls48W0kcppcgKf1wrIXbe7M8TC4nU3rIQCLcBGAs/s1600/t_pengertian_48.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-obUdYyTJwfE/XR8E3P_yreI/AAAAAAAASXk/8B304Ohitr44WsnEsVSsPUu3GUZbt-xuwCLcBGAs/s1600/t_pengertian_72.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-7lhGkGRJjMk/XR8E3a1licI/AAAAAAAASXo/Y5tk6edaDLwMe9ZqI432NuVW973chVQSwCLcBGAs/s1600/t_pengertian_96.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-lTvCXRdXhU4/XR8E1FW3NxI/AAAAAAAASXU/RWulIqKKTQIp4LM82s7Bf0w8pTH-tdqbwCLcBGAs/s1600/t_pengertian_144.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-5DBLWZNckuo/XR8E1Iotv-I/AAAAAAAASXQ/rGkOOr6hIgAzRRbOwMJn8UPuNfXc6PdEgCLcBGAs/s1600/t_pengertian_168.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-6ErU8W0fYnQ/XR8E1Ml6tCI/AAAAAAAASXY/89oFIVuUuKUclSRYtXHnU6uHjKxyUO63QCLcBGAs/s1600/t_pengertian_192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-3vZsa4AGPLo/XR8E2rkyfqI/AAAAAAAASXg/zrt1VmIFtLwp0zIDJ5dkTCNNuFgvUYkIgCLcBGAs/s1600/t_pengertian_512.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
